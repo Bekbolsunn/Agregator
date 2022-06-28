@@ -1,0 +1,12 @@
+.env
+.venv
+env/
+venv/
+__pycache__/
+.idea
+media/
+media*
+static/
+static/*
+staticfiles/
+staticfiles/*
